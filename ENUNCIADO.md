@@ -4,7 +4,7 @@
 
 CST em Desenvolvimento de Software Multiplataforma — Fatec de Porto Ferreira
 
-Nome: ______________________________________________  RA: ______________
+Nome: Giovani Camarotti Siqueira RA: ______________
 
 ## 1. Regras
 
